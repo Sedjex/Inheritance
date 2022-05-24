@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nasledovanie", "nasledovanie\nasledovanie.csproj", "{3D705CE6-5CB5-4C2A-81A1-08BE900E93C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "nasledovanie\Inheritance.csproj", "{3D705CE6-5CB5-4C2A-81A1-08BE900E93C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
